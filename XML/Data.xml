@@ -1,0 +1,168 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Students>
+    <Код>1</Код>
+    <FirstName>Fbqfe               </FirstName>
+    <SecondName>Buyw                </SecondName>
+    <Phone>4626476</Phone>
+    <Id_Special>1</Id_Special>
+  </Students>
+  <Students>
+    <Код>2</Код>
+    <FirstName>Gwgw                </FirstName>
+    <SecondName>Hguirw              </SecondName>
+    <Phone>2612792</Phone>
+    <Id_Special>2</Id_Special>
+  </Students>
+  <Students>
+    <Код>3</Код>
+    <FirstName>Fvuer               </FirstName>
+    <SecondName>Bebf                </SecondName>
+    <Phone>5742522</Phone>
+    <Id_Special>1</Id_Special>
+  </Students>
+  <Students>
+    <Код>4</Код>
+    <FirstName>Nivevn              </FirstName>
+    <SecondName>Figw                </SecondName>
+    <Phone>1356757</Phone>
+    <Id_Special>4</Id_Special>
+  </Students>
+  <Students>
+    <Код>5</Код>
+    <FirstName>Cjdofe              </FirstName>
+    <SecondName>Jifgw               </SecondName>
+    <Phone>2365742</Phone>
+    <Id_Special>3</Id_Special>
+  </Students>
+  <Students>
+    <Код>1</Код>
+    <FirstName>Fwfyfius            </FirstName>
+    <SecondName>Wfvawxoa            </SecondName>
+    <Phone>56388837</Phone>
+    <Id_Special>1</Id_Special>
+  </Students>
+  <Students>
+    <Код>2</Код>
+    <FirstName>Ydxyfpsh            </FirstName>
+    <SecondName>Acikjyos            </SecondName>
+    <Phone>17900976</Phone>
+    <Id_Special>2</Id_Special>
+  </Students>
+  <Students>
+    <Код>3</Код>
+    <FirstName>Iittvsei            </FirstName>
+    <SecondName>Okabkunh            </SecondName>
+    <Phone>45976165</Phone>
+    <Id_Special>1</Id_Special>
+  </Students>
+  <Students>
+    <Код>4</Код>
+    <FirstName>Cqscwgra            </FirstName>
+    <SecondName>Kfqwvxkg            </SecondName>
+    <Phone>99899432</Phone>
+    <Id_Special>4</Id_Special>
+  </Students>
+  <Students>
+    <Код>5</Код>
+    <FirstName>Gqomxxbe            </FirstName>
+    <SecondName>Rerfablh            </SecondName>
+    <Phone>79611645</Phone>
+    <Id_Special>3</Id_Special>
+  </Students>
+  <Students>
+    <Код>1</Код>
+    <FirstName>Vmmtkrra            </FirstName>
+    <SecondName>Bxupesdn            </SecondName>
+    <Phone>41241262</Phone>
+    <Id_Special>1</Id_Special>
+  </Students>
+  <Students>
+    <Код>2</Код>
+    <FirstName>Fklwrvpv            </FirstName>
+    <SecondName>Kpyjcwmi            </SecondName>
+    <Phone>95153528</Phone>
+    <Id_Special>2</Id_Special>
+  </Students>
+  <Students>
+    <Код>3</Код>
+    <FirstName>Kjmfrdqp            </FirstName>
+    <SecondName>Wgnyguie            </SecondName>
+    <Phone>39157745</Phone>
+    <Id_Special>1</Id_Special>
+  </Students>
+  <Students>
+    <Код>4</Код>
+    <FirstName>Qvlobbxq            </FirstName>
+    <SecondName>Eomhijdg            </SecondName>
+    <Phone>93483501</Phone>
+    <Id_Special>4</Id_Special>
+  </Students>
+  <Students>
+    <Код>5</Код>
+    <FirstName>Gyfjjrdp            </FirstName>
+    <SecondName>Xxouqcou            </SecondName>
+    <Phone>38863089</Phone>
+    <Id_Special>3</Id_Special>
+  </Students>
+  <Specials>
+    <Код>1</Код>
+    <Depatment>Programming         </Depatment>
+    <Special>PO        </Special>
+  </Specials>
+  <Specials>
+    <Код>2</Код>
+    <Depatment>Technical           </Depatment>
+    <Special>ATP       </Special>
+  </Specials>
+  <Specials>
+    <Код>3</Код>
+    <Depatment>Economy             </Depatment>
+    <Special>BU        </Special>
+  </Specials>
+  <Specials>
+    <Код>4</Код>
+    <Depatment>Programming         </Depatment>
+    <Special>PI        </Special>
+  </Specials>
+  <Specials>
+    <Код>1</Код>
+    <Depatment>Programming         </Depatment>
+    <Special>PO        </Special>
+  </Specials>
+  <Specials>
+    <Код>2</Код>
+    <Depatment>Technical           </Depatment>
+    <Special>ATP       </Special>
+  </Specials>
+  <Specials>
+    <Код>3</Код>
+    <Depatment>Economy             </Depatment>
+    <Special>BU        </Special>
+  </Specials>
+  <Specials>
+    <Код>4</Код>
+    <Depatment>Programming         </Depatment>
+    <Special>PI        </Special>
+  </Specials>
+  <Specials>
+    <Код>1</Код>
+    <Depatment>Programming         </Depatment>
+    <Special>PO        </Special>
+  </Specials>
+  <Specials>
+    <Код>2</Код>
+    <Depatment>Technical           </Depatment>
+    <Special>ATP       </Special>
+  </Specials>
+  <Specials>
+    <Код>3</Код>
+    <Depatment>Economy             </Depatment>
+    <Special>BU        </Special>
+  </Specials>
+  <Specials>
+    <Код>4</Код>
+    <Depatment>Programming         </Depatment>
+    <Special>PI        </Special>
+  </Specials>
+</NewDataSet>
